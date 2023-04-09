@@ -1,5 +1,6 @@
 # VIA-format-to-YOLOv7-seg
-The file converts the format of VIA to the format of YOLOv7 segmentation.  
+Instance Segmentation Conversion.   
+The file converts the format of VIA (VGG Image Annotator) to the format of YOLOv7 segmentation.  
 
   This project provides the json examples of different formats.     
   VIA format: via_region_data.json   
